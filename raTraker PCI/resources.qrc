@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>resources/satd.PNG</file>
+        <file>resources/satg.PNG</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/main.png</file>
+        <file>resources/open.png</file>
+        <file>resources/Stop.png</file>
+        <file>resources/folder.png</file>
+        <file>resources/globe.png</file>
+        <file>resources/notepad.png</file>
+        <file>resources/Exe.png</file>
+        <file>resources/viewSat.png</file>
+        <file>resources/Documents.png</file>
+        <file>resources/2.bmp</file>
+        <file>resources/aziElePlot.bmp</file>
+        <file>resources/map.bmp</file>
+    </qresource>
+</RCC>
